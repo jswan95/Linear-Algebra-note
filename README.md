@@ -1,7 +1,7 @@
 # Linear-Algebra-note
 
-## 简介
-> Author: Jiansong Wan <br>
+## Author Information
+> Name: Jiansong Wan   
 > Email: jswan@kaist.ac.kr
 
 Note on course MIT Linear Algebra course, displayed by 'jupyter notebook (ipython notebook)'. 
