@@ -4,7 +4,7 @@
 > Name: Jiansong Wan   
 > Email: jswan@kaist.ac.kr
 
-Note on course MIT Linear Algebra course, displayed by 'jupyter notebook (ipython notebook)'. 
+Note on course MIT Linear Algebra course, displayed by `jupyter notebook (ipython notebook)`. 
 
 'Github' is slow to load '.ipynb', highly recommend you to view this project at [NBviwer](http://nbviewer.jupyter.org/github/zlotus/notes-linear-algebra/blob/master/ReadMe.ipynb)
 
