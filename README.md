@@ -43,5 +43,5 @@ Note on course MIT Linear Algebra course, displayed by 'jupyter notebook (ipytho
 -[Chapter31. Linear Transformation and Their Matrices](chapter31.ipynb) <br>
 -[Chapter32. Change of Basis; Image Compression](chapter32.ipynb) <br>
 -[Chapter33. Quiz 3 Review](chapter33.ipynb) <br>
--[Chapter34. Left and Right Inverses; Pseudoinverse](chapter34.ipynb) <br>
--[Chapter35. Final Course Review](chapter35.ipynb) <br>
+-[Chapter34. Left and Right Inverses; Pseudoinverse](chapter34.ipynb)
+-[Chapter35. Final Course Review](chapter35.ipynb) 
