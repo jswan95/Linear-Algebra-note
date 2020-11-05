@@ -7,7 +7,7 @@
 
 Note on MIT Linear Algebra course, displayed by ` jupyter notebook (ipython notebook) `. 
 
-` Github ` is slow to load ` .ipynb ` file, highly recommend you to view this project at [NBviwer](http://nbviewer.jupyter.org/https://github.com/jswan95/Linear-Algebra-note/edit/main/README.ipynb)
+` Github ` is slow to load ` .ipynb ` file, highly recommend you to view this project at [NBviwer](https://nbviewer.jupyter.org/github/jswan95/Linear-Algebra-note/blob/main/README.ipynb)
 
 ----
 ## Lecture List
