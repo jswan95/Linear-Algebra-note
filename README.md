@@ -2,7 +2,7 @@
 
 ## Author Information
 > Name: Jiansong Wan   
-> Email: jswan@kaist.ac.kr
+> Email: familyboy41@gmail.com
 
 
 Note on MIT Linear Algebra course, displayed by ` jupyter notebook (ipython notebook) `. 
