@@ -4,9 +4,11 @@
 > Name: Jiansong Wan   
 > Email: familyboy41@gmail.com
 
-Note on MIT Linear Algebra course, displayed by ` jupyter notebook (ipython notebook) `. 
+Note on MIT Linear Algebra course, displayed by `jupyter notebook (ipython notebook)`. 
 
-` Github ` is slow to load ` .ipynb ` file, highly recommend you to view this project at [NBviwer](https://nbviewer.jupyter.org/github/jswan95/Linear-Algebra-note/blob/main/README.ipynb)
+`Github` is slow to load `.ipynb` file, highly recommend you to view this project at [NBviwer](https://nbviewer.jupyter.org/github/jswan95/Linear-Algebra-note/blob/main/README.ipynb)
+
+The format of this note mainly follows [zlotus](https://github.com/zlotus/)'s [notes-linear-algebra](https://github.com/zlotus/notes-linear-algebra). 
 ----
 
 ## Lecture List
@@ -45,5 +47,3 @@ Note on MIT Linear Algebra course, displayed by ` jupyter notebook (ipython note
 -[Lecture 33. Quiz 3 Review](lecture33.ipynb)   
 -[Lecture 34. Left and Right Inverses; Pseudoinverse](lecture34.ipynb)   
 -[Lecture 35. Final Course Review](lecture35.ipynb)   
-
-The format of this note mainly follows [zlotus](https://github.com/zlotus/)'s [notes-linear-algebra](https://github.com/zlotus/notes-linear-algebra)
