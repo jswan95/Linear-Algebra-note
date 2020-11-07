@@ -9,6 +9,7 @@ Note on MIT Linear Algebra course, displayed by `jupyter notebook (ipython noteb
 `Github` is slow to load `.ipynb` file, highly recommend you to view this project at [NBviwer](https://nbviewer.jupyter.org/github/jswan95/Linear-Algebra-note/blob/main/README.ipynb)
 
 The format of this note mainly follows [zlotus](https://github.com/zlotus/)'s [notes-linear-algebra](https://github.com/zlotus/notes-linear-algebra). 
+
 ----
 
 ## Lecture List
