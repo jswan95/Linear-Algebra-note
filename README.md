@@ -4,11 +4,11 @@
 > Name: Jiansong Wan   
 > Email: familyboy41@gmail.com
 
-
 Note on MIT Linear Algebra course, displayed by ` jupyter notebook (ipython notebook) `. 
 
 ` Github ` is slow to load ` .ipynb ` file, highly recommend you to view this project at [NBviwer](https://nbviewer.jupyter.org/github/jswan95/Linear-Algebra-note/blob/main/README.ipynb)
 ----
+
 ## Lecture List
 -[Lecture 1. The Geometry of Linear Equations](lecture01.ipynb)   
 -[Lecture 2. Elimination with Matrices](lecture02.ipynb)  
@@ -46,4 +46,4 @@ Note on MIT Linear Algebra course, displayed by ` jupyter notebook (ipython note
 -[Lecture 34. Left and Right Inverses; Pseudoinverse](lecture34.ipynb)   
 -[Lecture 35. Final Course Review](lecture35.ipynb)   
 
-The format of this note mainly follows [zlotus's](https://github.com/zlotus/) [notes-linear-algebra](https://github.com/zlotus/notes-linear-algebra)
+The format of this note mainly follows [zlotus](https://github.com/zlotus/)'s [notes-linear-algebra](https://github.com/zlotus/notes-linear-algebra)
